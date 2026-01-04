@@ -2,6 +2,8 @@
 
 An interactive data visualization dashboard built in **R (Shiny + Plotly)** for exploring the **Economic Freedom of the World (EFW) Index** across countries and time. The project enables users to examine global patterns in economic freedom, compare countries across institutional dimensions, and visualize changes over time using an intuitive, modern interface.
 
+Link: https://ogcovk-zev-van0zanten.shinyapps.io/dashboard/
+
 ---
 
 ## 🎯 Project Overview
